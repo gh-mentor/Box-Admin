@@ -1,0 +1,2 @@
+
+### [copilot for business](https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-business?apiVersion=2022-11-28#get-copilot-for-business-seat-information-and-settings-for-an-organization)
